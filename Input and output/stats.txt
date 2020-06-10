@@ -1,0 +1,4 @@
+At input1 and pattern 'for' KnuthMorrisPratt | Horspool | QuickSearch [1, 0, 1]
+At input2 and pattern 'fames' KnuthMorrisPratt | Horspool | QuickSearch [0, 0, 0]
+At input3 and pattern 'aaaaa' KnuthMorrisPratt | Horspool | QuickSearch [0, 0, 2]
+At input4 and pattern 'aabaa' KnuthMorrisPratt | Horspool | QuickSearch [0, 0, 0]
